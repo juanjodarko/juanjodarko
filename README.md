@@ -13,6 +13,7 @@
 [<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/twitter/twitter-original.svg" />](https://twitter.com/Awesome_Juanjo)
 &nbsp;&nbsp;
 [<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/jjgeek)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/juanjo_sis/im-a-cm-b.svg)](https://www.codementor.io/@juanjo_sis?refer=badge)
 
 ### Languages and Tools:
 
