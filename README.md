@@ -8,11 +8,11 @@
 ### Connect with me:
 
 
-[<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg />][website]
+[<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/Awesome_Juanjo)
+[<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://twitter.com/Awesome_Juanjo)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jjgeek)
+[<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://linkedin.com/in/jjgeek)
 
 <br />
 
