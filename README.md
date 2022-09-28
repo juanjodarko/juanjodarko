@@ -16,18 +16,21 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />][website]
 
 <br />
 <br />
 
 
+[website]: https://juanjoseruizferrer.com
+[twitter]: https://twitter.com/Awesome_Juanjo
+[linkedin]: https://linkedin.com/in/jjgeek
