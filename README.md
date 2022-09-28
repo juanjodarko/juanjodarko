@@ -14,8 +14,6 @@
 &nbsp;&nbsp;
 [<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/jjgeek)
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
@@ -33,6 +31,3 @@
 <br />
 
 
-[website]: https://juanjoseruizferrer.com
-[twitter]: https://twitter.com/Awesome_Juanjo
-[linkedin]: https://linkedin.com/in/jjgeek
