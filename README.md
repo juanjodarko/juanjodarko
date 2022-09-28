@@ -31,7 +31,7 @@
 <br />
 
 ---
-<img align="left" alt="juanjodarko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juanjodarko&show_icons=true&hide_border=true" />
+<img align="left" alt="juanjodarko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juanjodarko&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://juanjoseruizferrer.com
 [twitter]: https://twitter.com/Awesome_Juanjo
