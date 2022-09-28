@@ -1,14 +1,14 @@
 ### Hi there, I'm Juan Jo 👋
 
 ## I'm Full stack Developer and Teacher!
-- I'm currently working @ Flow.
+- I'm currently working @ [Flow](https://flowinc.app/).
 - I'm working more with Rust on my spare time.
-- I help others through code mentor.
+- I like helping others through code mentor.
 
 ### Connect with me:
 
 
-[<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg />"][website]
+[<img align="left" alt="juanjoseruizferrer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg />][website]
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/Awesome_Juanjo)
 &nbsp;&nbsp;
