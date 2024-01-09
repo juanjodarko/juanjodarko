@@ -1,7 +1,6 @@
 ### Hi there, I'm Juan Jo 👋
 
 ## I'm Full stack Developer and Teacher!
-- I'm currently working @ [Flow](https://flowinc.app/).
 - I'm working more with Rust on my spare time.
 - I like helping others through code mentor.
 
